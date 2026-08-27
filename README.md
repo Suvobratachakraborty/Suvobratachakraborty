@@ -1,127 +1,90 @@
-<h1 align="center">Hi 👋, I'm Suvobrata Chakraborty</h1>
+<div align="center">
 
-<h3 align="center">
-  B.Tech CSE Student • Web Developer • AI/ML Enthusiast
-</h3>
+# 👋 Hi, I'm **Suvobrata Chakraborty**
 
-<p align="center">
-  <a href="https://github.com/Suvobratachakraborty">
-    <img src="https://komarev.com/ghpvc/?username=Suvobratachakraborty&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  </a>
-</p>
+### 💻 B.Tech CSE Student • 🌐 Web Development • 🤖 AI/ML Enthusiast
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Exploring+Web+Development;Learning+AI+%26+Machine+Learning;Building+Projects;Exploring+New+Technologies;Always+Learning+Something+New" />
+
+<br>
+
+<a href="https://github.com/Suvobratachakraborty">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Suvobratachakraborty&label=Profile%20Views&color=58A6FF&style=for-the-badge"/>
+
+</div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-I'm a **B.Tech Computer Science & Engineering student** who enjoys exploring technology and turning ideas into practical projects.
+I'm a **B.Tech Computer Science & Engineering student** passionate about technology, development, and building useful projects.
 
-* 💻 Interested in **Web Development** and modern development technologies
-* 🤖 Exploring **Artificial Intelligence & Machine Learning**
-* 🧠 Building my foundation in **Data Structures & Algorithms**
-* 🔍 Curious about **new and emerging technologies**
-* 🛠️ I enjoy learning by **building real-world projects**
-* 🌱 Always learning, experimenting, and improving
+* 🌐 Interested in **Web Development**
+* 🤖 Exploring **AI & Machine Learning**
+* 🧠 Learning **Data Structures & Algorithms**
+* 🚀 Curious about **new & emerging technologies**
 
-> **"Build. Learn. Improve. Repeat."** 🚀
+> **Build. Learn. Improve. Repeat.** 🚀
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,mysql,aws,git,github,vscode&theme=dark"/>
 
-### 🌐 Web Development
+<br><br>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black"/>
 
-### 🤖 Data Science & AI/ML
-
-<p align="center">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black"/>
-</p>
-
-### 🗄️ Database & Cloud
-
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-</p>
+</div>
 
 ---
 
-## 🌱 Currently Exploring
+## 🚀 Currently Exploring
 
-<table align="center">
-  <tr>
-    <td align="center" width="180">🌐<br><b>Web Development</b></td>
-    <td align="center" width="180">🤖<br><b>AI & Machine Learning</b></td>
-    <td align="center" width="180">🧠<br><b>DSA</b></td>
-    <td align="center" width="180">☁️<br><b>Cloud Technologies</b></td>
-  </tr>
-</table>
+<div align="center">
 
----
+🌐 **Web Development**   •  
+🤖 **AI / ML**   •  
+🧠 **DSA**   •  
+☁️ **Cloud Technologies**
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.shion.dev/api?username=Suvobratachakraborty&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false"/>
-  <img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Suvobratachakraborty&theme=tokyonight&hide_border=true&layout=compact&langs_count=8"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Suvobratachakraborty&theme=tokyonight&hide_border=true"/>
-</p>
+</div>
 
 ---
 
-## 🏆 Contributions
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Suvobratachakraborty&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
-</p>
+<div align="center">
 
----
+<img height="170" src="https://github-readme-stats.shion.dev/api?username=Suvobratachakraborty&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-## 🎯 2026 Goals
+<img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Suvobratachakraborty&layout=compact&theme=tokyonight&hide_border=true"/>
 
-* [ ] Build and deploy more real-world projects
-* [ ] Strengthen Data Structures & Algorithms
-* [ ] Explore AI/ML projects
-* [ ] Improve full-stack development skills
-* [ ] Contribute to open-source projects
-* [ ] Learn and experiment with emerging technologies
+<br><br>
+
+<img src="https://streak-stats.demolab.com/?user=Suvobratachakraborty&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
-## 🤝 Let's Connect
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/Suvobratachakraborty">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+### ⭐ Thanks for visiting my profile!
 
-<p align="center">
-  <b>Thanks for visiting my profile! ⭐</b>
-</p>
+**Keep Learning • Keep Building • Keep Exploring 🚀**
 
-<p align="center">
-  <i>Keep learning. Keep building. Keep creating. 🚀</i>
-</p>
+</div>
